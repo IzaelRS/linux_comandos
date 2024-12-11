@@ -1,0 +1,33 @@
+/ls / = ver biblioteca de comando
+
+/bin = comando binários (qualquer usuário)
+
+/boot = arquivos estáticos (imagem do kenel)
+
+/dev = uso de dispositivos (periféricos)
+
+/etc = guarda arquivo de configuração (ex nome de maquina)
+
+/lib = bibliotecas
+
+/mídia = ponto de montagem para dispositivos removíveis
+
+/mnt = ponto de montagem para dispositivos removíveis temporário
+
+/opt = pacotes adicionais proprietário
+
+/srv = dados de serviço da rede
+
+/var = variáveis (arquivos de log)
+
+/home e root = diretórios pessoais
+
+/usr = hierarquia secundaria 
+
+/src = código fonte do Linux
+
+/proc e sys = diretório voláteis (informações dinâmicas)
+
+/run = informações de processos
+
+/tmp = arquivos temporário gravados 
