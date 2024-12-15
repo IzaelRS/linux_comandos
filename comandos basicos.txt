@@ -1,0 +1,62 @@
+ls = lista conteúdos 
+
+ls -l = lista longa
+
+ls -lh = deixa a lista mais legível
+
+ls -F = mostra os diretórios
+
+ls -r = mostra de forma reversa (-F)
+
+ls -R = mostra de forma recursiva 
+
+ls -lS = mostra por tamanho
+
+ls -n = mostra o UID (permissões de grupo)
+
+
+cd = abrir caminho
+
+cd - = pasta anterior
+
+cd .. = pasta pai
+
+cd ~ = diretório pessoal 
+
+mkdir = cria um diretório
+
+mkdir -p = cria diretórios filhos ( mkdir -p primeiro/segundo)
+
+mkdir -ma=rwx usuario = cria a pasta com permissões 
+
+apt install = instalação de um programa
+
+tree = mostra a arvore de pastas
+
+> nomedoarquivo.txt = cria um arquivo
+
+rm nomedoarquivo.txt = remove o arquivo
+
+rm -i = remove os arquivo
+
+rm -d nomedodiretorio = remove o diretório 
+
+rmdir nomedodiretorio = remove o diretório
+
+cp = copia
+
+mv = renomeia
+
+file = identifica o tipo de arquivo 
+
+
+
+
+
+
+
+
+
+
+
+

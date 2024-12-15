@@ -1,0 +1,26 @@
+.  = pasta corrente
+
+../  = pasta pai
+
+../../ = volta dois níveis
+
+
+/  = diretório raiz
+
+-  = diretório anterior 
+
+
+
+cd / = abrir pasta
+
+cd ~ = vai para pasta pessoal (home)
+
+
+caminho relativo = não usa a raiz para acessar o diretório 
+
+cainho absoluto = usa o caminho raiz
+
+ls = O comando ls do Linux é usado para listar os conteúdos de um diretório, como nomes de arquivos e pastas
+
+
+

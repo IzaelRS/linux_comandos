@@ -1,0 +1,6 @@
+caminho para documentação  = cd /usr/share/doc
+
+
+comando apropos = qualquer tipo de palavra que esta relacionada ao nome mencionado
+
+whereis apropos = localidade do binario
