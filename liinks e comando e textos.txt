@@ -1,0 +1,32 @@
+link simbólico = string
+
+link físicos = identifica link
+
+cat = concatenar links 
+
+tac = cat inv invertido
+
+wc = contador
+
+wc -l = linha
+
+wc -w = palavras
+
+wc -c = caracteres
+
+head = mostra as 10 primeiras linhas
+
+tail = mostra as 10 ultimas
+
+cut = corta usando um parâmetro : 
+
+awk = linha de comando avançado
+
+
+
+
+
+
+
+
+

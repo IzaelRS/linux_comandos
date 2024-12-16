@@ -1,0 +1,6 @@
+stdin
+
+> = insert (dentro)
+
+>> = apende (incrementa)
+
